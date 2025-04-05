@@ -40,5 +40,22 @@ Além de aprender a automatizar testes com `subprocess`, quis praticar:
 
 ---
 
+## 📂 Estrutura do projeto
+
+
+
+## 🌐 Teste o app online
+
+🚀 Agora você pode testar o projeto direto no navegador, sem instalar nada:
+
+👉 [Acessar app no Streamlit](https://rebelo81-ping-monitor.streamlit.app)
+
+Nele, você escolhe os destinos de ping, define a quantidade de pacotes e visualiza os resultados com tabelas e gráficos em tempo real!
+
+---
+
+
+
+
 
 
